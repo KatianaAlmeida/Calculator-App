@@ -1,0 +1,29 @@
+body{
+  background-color: black;
+}
+
+.result{
+  color: white;
+  font-size: 35px;
+  margin: 0;
+}
+
+.numbers_signs,
+.clear,
+.signs{
+  background-color: rgb(56, 56, 56);
+  color: white;
+  font-size: 20px;
+  border: none;
+  height: 45px;
+  width: 45px;
+  border-radius:100%;
+}
+
+.clear{
+  font-size: 13px;
+}
+
+.signs{
+  background-color: orange;
+}
